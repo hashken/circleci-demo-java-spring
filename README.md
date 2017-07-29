@@ -1,4 +1,4 @@
-# CircleCI 2.0 Java Demo Application using Maven and Spring [![CI](https://circleci.com/gh/CircleCI-Public/circleci-demo-java-spring.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/CircleCI-Public/circleci-demo-java-spring)
+# CircleCI 2.0 Java Demo Application using Maven and Spring [![CI](https://circleci.com/gh/hashken/circleci-demo-java-spring.svg?style=svg)](https://circleci.com/gh/hashken/circleci-demo-java-spring)
 
 This is an example application showcasing how to run a Java app on CircleCI 2.0.
 
